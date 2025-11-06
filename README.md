@@ -1,4 +1,6 @@
 ## Hi there 👋
+## Oyinlola here! I'm a first time coder and web developer so I don't have any experience. It's all so different and exciting to learn but in due time I know I'll get this down! :yellow_heart:
+
 
 <!--
 **0Yinlooola/0Yinlooola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
